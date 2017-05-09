@@ -1,8 +1,6 @@
 // This implementation was done in response to an assignment for a job interview.
 // Production use is discouraged!
 
-#include <iostream>
-
 #pragma once
 
 #ifndef HASH_MAP_HPP_INCLUDED
